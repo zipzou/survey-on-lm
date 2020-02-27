@@ -274,3 +274,9 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+translation-figures.graffle
+
+.vscode/*
+
+*.DS_Store
